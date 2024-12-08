@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.meio
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.afazeres{
+    border: 2px solid black;
+    width: 20rem;
+    border-radius: 10px;
+    margin-top: 20px;
+    text-align: center;
+
+}
+.anotcos{
+    display: block;
+}
+
+.afazeres #horario{
+    font-size: 30pt;
+}
+
+.container .table{
+    margin-top:90px;
+}

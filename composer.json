@@ -1,0 +1,16 @@
+{
+    "name": "pedrojs/kaike_lira",
+    "version":"1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Pedrojs\\KaikeLira\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "quanticodw",
+            "email": "pedrojosuesalomao12@gmail.com"
+        }
+    ],
+    "require": {}
+}
